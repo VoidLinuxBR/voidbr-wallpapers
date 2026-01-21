@@ -1,3 +1,3 @@
-# voidbr-pkgfile-template
+# voidbr-wallpapers
 
-Template for VoidBR pkgmake/pkgfile packages
+Wallpapers for Void Linux BR

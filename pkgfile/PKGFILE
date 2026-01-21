@@ -33,8 +33,8 @@
 ##############################################################################
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=chili-pkgname
-pkgdesc="Package template for Chililinux"
+pkgname=voidbr-wallpapers
+pkgdesc="Wallpapers for Void Linux BR"
 pkgver=$(date +%Y%m%d)
 pkgrel=$(date +%H%M)
 arch=('any')
